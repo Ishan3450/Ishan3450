@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying B.Tech (CE) 2Y<br>🤝 I’m looking for help with how to get start with open source<br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and problem solving<br>⚡ Consistency & God
+🔭 B.Tech 2Y Student<br>🤝 Looking for guidance with how to get started with open source<br>🌱 Currently learning Data Structures & Algorithms (DSA) and Problem solving<br>⚡ Consistency & God
 
 
 ## 🌐 Socials:
