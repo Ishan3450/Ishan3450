@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ishan and I'm a Computer Engineering Enthusiast/Student from Gujarat, IN</h3>
+<h3 align="left">My name is Ishan and I'm a Computer Engineering Enthusiast and a student from Gujarat, IN</h3>
 
 ###
 
