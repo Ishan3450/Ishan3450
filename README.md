@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 B.E Pre-final Student<br>✨ Exploring the field since 2019<br>📚 Currently practicing MERN and Problem Solving</p>
+<p align="left">🔭 B.E Final Student<br>✨ Exploring the field since 2019<br>📚 Currently practicing MERN and Problem Solving</p>
 
 ###
 
