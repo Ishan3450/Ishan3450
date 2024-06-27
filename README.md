@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 B.E Final Year Student<br>✨ Exploring the field since 2019<br>📚 Currently practicing MERN and Problem Solving</p>
+<p align="left">🔭 B.E Final Year Student<br>✨ Exploring the field since 2019<br>📚 On the journey of becoming a Software Engineer</p>
 
 ###
 
