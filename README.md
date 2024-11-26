@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Having knowledge of</h2>
+<h2 align="left">Have knowledge of</h2>
 
 ###
 
