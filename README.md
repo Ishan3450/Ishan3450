@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Skilled in problem-solving with a strong foundation in Data Structures and Algorithms, and proficient in developing full web applications, including both frontend and backend. Currently seeking Software Engineering, Fullstack Developer, or Backend Developer roles.</p>
+<p align="left"> Currently working as a Software Developer at Odoo, India. Skilled in problem-solving with a strong foundation in Data Structures and Algorithms, and proficient in developing full web applications, including both frontend and backend.</p>
 
 ###
 
